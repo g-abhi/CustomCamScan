@@ -3,9 +3,16 @@ customized camera &amp; barcode scanner with a base design for a future social m
 
 ## Demo
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=P1pt9nJ83TU
-" target="_blank"><img src="http://img.youtube.com/vi/P1pt9nJ83TU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="360" height="270" border="10"/></a>
+* <a href="https://www.youtube.com/watch?v=GONjfzHqTpk" target="_blank">SmartLabel</a>
+* <a href="https://www.youtube.com/watch?v=CaPbV-YDzBQ" target="_blank">QR Code for mailto link</a>
+* <a href="https://www.youtube.com/watch?v=bncasjtwR88" target="_blank">switching camera type (front/back)</a>
+* <a href="https://www.youtube.com/watch?v=KQoOzckAg8Y" target="_blank">Barcode</a>
+* <a href="https://www.youtube.com/watch?v=P1pt9nJ83TU" target="_blank">Camera & App Features</a>
+
+Barcode Scanner Features
+* scan a variety of barcode formats (some formats may not be supported on iOS and/or Android)
+* once barcode is scanned, alert will popup with barcode type & data
+* if a link is detected (https:// | http:// | mailto: | sms: | tel:), alert provides option to open the link
 
 Camera Features
 * press white circle button to capture a regular picture
