@@ -5,7 +5,7 @@ customized camera &amp; barcode scanner with a base design for a future social m
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=P1pt9nJ83TU
 " target="_blank"><img src="http://img.youtube.com/vi/P1pt9nJ83TU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="180" height="320"/></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="320"/></a>
 
 Camera Features
 * press white circle button to capture a regular picture
