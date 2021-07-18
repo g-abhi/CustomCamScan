@@ -2,6 +2,9 @@
 customized camera &amp; barcode scanner with a base design for a future social media app
 
 ## Demo
+
+<iframe>https://www.youtube.com/watch?v=P1pt9nJ83TU</iframe>
+
 Camera Features:
 * press white circle button to capture a regular picture
 * toggle flash with flash icon
