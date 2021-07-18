@@ -12,7 +12,7 @@ customized camera &amp; barcode scanner with a base design for a future social m
 Barcode Scanner Features
 * scan a variety of barcode formats (some formats may not be supported on iOS and/or Android)
 * once barcode is scanned, alert will popup with barcode type & data
-* if a link is detected (https:// | http:// | mailto: | sms: | tel:), alert provides option to open the link
+* if a link is detected (```https://``` | ```http://``` | ```mailto:``` | ```sms:``` | ```tel:```), alert provides option to open the link
 
 Camera Features
 * press white circle button to capture a regular picture
