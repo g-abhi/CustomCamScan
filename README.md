@@ -7,11 +7,11 @@ made with ReactNative & Expo
 
 ## Demo Videos
 
-* <a href="https://www.youtube.com/watch?v=GONjfzHqTpk" target="_blank">SmartLabel</a>
-* <a href="https://www.youtube.com/watch?v=CaPbV-YDzBQ" target="_blank">QR Code for mailto link</a>
-* <a href="https://www.youtube.com/watch?v=bncasjtwR88" target="_blank">switching camera type (front/back)</a>
-* <a href="https://www.youtube.com/watch?v=KQoOzckAg8Y" target="_blank">Barcode</a>
-* <a href="https://www.youtube.com/watch?v=P1pt9nJ83TU" target="_blank">Camera & App Features</a>
+* <a href="https://www.youtube.com/watch?v=GONjfzHqTpk" target="_blank">SmartLabel</a> (0:06)
+* <a href="https://www.youtube.com/watch?v=CaPbV-YDzBQ" target="_blank">QR Code for mailto link</a> (0:05)
+* <a href="https://www.youtube.com/watch?v=bncasjtwR88" target="_blank">switching camera type (front/back)</a> (0:03)
+* <a href="https://www.youtube.com/watch?v=KQoOzckAg8Y" target="_blank">Barcode</a> (0:03)
+* <a href="https://www.youtube.com/watch?v=P1pt9nJ83TU" target="_blank">Camera & App Features</a> (0:20)
 
 ## Barcode Scanner Features
 * scan a variety of barcode formats (some formats may not be supported on iOS and/or Android)
