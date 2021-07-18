@@ -1,7 +1,7 @@
 # CustomCamScan
 customized camera &amp; barcode scanner with a base design for a future social media app
 
-<img src="https://user-images.githubusercontent.com/57333505/126085759-d61808cf-cb8d-4113-b26f-2ac65b96d331.jpg" width="220" height="480" />
+<img src="https://user-images.githubusercontent.com/57333505/126085759-d61808cf-cb8d-4113-b26f-2ac65b96d331.jpg" width="230" height="480" />
 
 
 ## Demo Videos
