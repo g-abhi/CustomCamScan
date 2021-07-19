@@ -7,10 +7,14 @@ made with ReactNative & Expo
 
 ## Demo Videos
 
+### Barcode Scanner
+
 * <a href="https://www.youtube.com/watch?v=GONjfzHqTpk" target="_blank">SmartLabel</a> (0:06)
 * <a href="https://www.youtube.com/watch?v=CaPbV-YDzBQ" target="_blank">QR Code for mailto link</a> (0:05)
+* * <a href="https://www.youtube.com/watch?v=KQoOzckAg8Y" target="_blank">Barcode</a> (0:03)
+
+### Camera
 * <a href="https://www.youtube.com/watch?v=bncasjtwR88" target="_blank">switching camera type (front/back)</a> (0:03)
-* <a href="https://www.youtube.com/watch?v=KQoOzckAg8Y" target="_blank">Barcode</a> (0:03)
 * <a href="https://www.youtube.com/watch?v=P1pt9nJ83TU" target="_blank">Camera & App Features</a> (0:20)
 
 ## Barcode Scanner Features
